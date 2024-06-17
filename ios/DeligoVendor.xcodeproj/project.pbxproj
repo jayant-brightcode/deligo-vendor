@@ -14,6 +14,25 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		7699B88040F8A987B510C191 /* libPods-DeligoVendor-DeligoVendorTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-DeligoVendor-DeligoVendorTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		AF0EBE4BEF5A401490426F97 /* samayshaktiicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C93A1E6A650C4F60AF36BD15 /* samayshaktiicons.ttf */; };
+		4A2D44A52BB543CCA313F43A /* urbanistblack.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 83A6F7A63A694B52B07156E5 /* urbanistblack.ttf */; };
+		AF9CEF8B8309402BACB93AB9 /* urbanistblackitalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EAC6895758E04EB3BCBB74DC /* urbanistblackitalic.ttf */; };
+		506C791157BD427DBC3D5CFB /* urbanistbold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 01D44113DC8D4A67A237CF4C /* urbanistbold.ttf */; };
+		09FB0BDB7E8C42D3AF4F5D73 /* urbanistbolditalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70E5043228D44141A074D20C /* urbanistbolditalic.ttf */; };
+		A64C2FED0CDE4BDF8C3BBF45 /* urbanistextrabold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0AE651065C9E4CA29193D8A3 /* urbanistextrabold.ttf */; };
+		9A588B43C9434BC794983B91 /* urbanistextrabolditalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 34F3371AF1EE47F3B77093AD /* urbanistextrabolditalic.ttf */; };
+		E2CAEE8B715C480CA5AEFBD6 /* urbanistextralight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 54405CBA88DD4237AA7B3083 /* urbanistextralight.ttf */; };
+		4A74B8982E6945D5BA5F07D7 /* urbanistextralightitalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 19D6C3DED2DA4086A77F40CF /* urbanistextralightitalic.ttf */; };
+		CA1CBD2007BD456B9128CEEC /* urbanistitalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F279A39901F64240B277345C /* urbanistitalic.ttf */; };
+		94DDF32D05284962ACEF4CB7 /* urbanistlight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8D376985B18C4CA1B2E494AB /* urbanistlight.ttf */; };
+		4A743EE938BF427EB6F61CFE /* urbanistlightitalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E15D21E751114E24A6190F1D /* urbanistlightitalic.ttf */; };
+		84742906D7964CFA9D65828D /* urbanistmedium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DD43F3455AC5497ABFDB83F6 /* urbanistmedium.ttf */; };
+		B0F28A096F0D45F7A9FB5E03 /* urbanistmediumitalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2E3AAE134B514D6F99B33C8F /* urbanistmediumitalic.ttf */; };
+		B119B22C8BC64DBA9447CE68 /* urbanistregular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2EDABE4110094CD2B098C5B9 /* urbanistregular.ttf */; };
+		3A7FCCDD6A8842478BB9903A /* urbanistsemiboditalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 02C3600878D845AB9667D772 /* urbanistsemiboditalic.ttf */; };
+		A7364800CC0143E59D9F3203 /* urbanistsemibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A9E54D6EF41D4383AD4BC7FA /* urbanistsemibold.ttf */; };
+		3532B37E59E5422DAD475EEA /* urbanistthin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 862A79AA193241D5B0F9D92C /* urbanistthin.ttf */; };
+		E4B453DAD40F47249A55AF94 /* urbanistthinitalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 349A03908B624FE4847F742E /* urbanistthinitalic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +55,7 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = DeligoVendor/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = DeligoVendor/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = DeligoVendor/main.m; sourceTree = "<group>"; };
-	    13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = DeligoVendor/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = DeligoVendor/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-DeligoVendor-DeligoVendorTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DeligoVendor-DeligoVendorTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-DeligoVendor.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DeligoVendor.debug.xcconfig"; path = "Target Support Files/Pods-DeligoVendor/Pods-DeligoVendor.debug.xcconfig"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-DeligoVendor.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DeligoVendor.release.xcconfig"; path = "Target Support Files/Pods-DeligoVendor/Pods-DeligoVendor.release.xcconfig"; sourceTree = "<group>"; };
@@ -45,6 +64,25 @@
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = DeligoVendor/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-DeligoVendor-DeligoVendorTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DeligoVendor-DeligoVendorTests.release.xcconfig"; path = "Target Support Files/Pods-DeligoVendor-DeligoVendorTests/Pods-DeligoVendor-DeligoVendorTests.release.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		C93A1E6A650C4F60AF36BD15 /* samayshaktiicons.ttf */ = {isa = PBXFileReference; name = "samayshaktiicons.ttf"; path = "../assets/fonts/samayshaktiicons.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		83A6F7A63A694B52B07156E5 /* urbanistblack.ttf */ = {isa = PBXFileReference; name = "urbanistblack.ttf"; path = "../assets/fonts/urbanistblack.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		EAC6895758E04EB3BCBB74DC /* urbanistblackitalic.ttf */ = {isa = PBXFileReference; name = "urbanistblackitalic.ttf"; path = "../assets/fonts/urbanistblackitalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		01D44113DC8D4A67A237CF4C /* urbanistbold.ttf */ = {isa = PBXFileReference; name = "urbanistbold.ttf"; path = "../assets/fonts/urbanistbold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		70E5043228D44141A074D20C /* urbanistbolditalic.ttf */ = {isa = PBXFileReference; name = "urbanistbolditalic.ttf"; path = "../assets/fonts/urbanistbolditalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		0AE651065C9E4CA29193D8A3 /* urbanistextrabold.ttf */ = {isa = PBXFileReference; name = "urbanistextrabold.ttf"; path = "../assets/fonts/urbanistextrabold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		34F3371AF1EE47F3B77093AD /* urbanistextrabolditalic.ttf */ = {isa = PBXFileReference; name = "urbanistextrabolditalic.ttf"; path = "../assets/fonts/urbanistextrabolditalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		54405CBA88DD4237AA7B3083 /* urbanistextralight.ttf */ = {isa = PBXFileReference; name = "urbanistextralight.ttf"; path = "../assets/fonts/urbanistextralight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		19D6C3DED2DA4086A77F40CF /* urbanistextralightitalic.ttf */ = {isa = PBXFileReference; name = "urbanistextralightitalic.ttf"; path = "../assets/fonts/urbanistextralightitalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		F279A39901F64240B277345C /* urbanistitalic.ttf */ = {isa = PBXFileReference; name = "urbanistitalic.ttf"; path = "../assets/fonts/urbanistitalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		8D376985B18C4CA1B2E494AB /* urbanistlight.ttf */ = {isa = PBXFileReference; name = "urbanistlight.ttf"; path = "../assets/fonts/urbanistlight.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		E15D21E751114E24A6190F1D /* urbanistlightitalic.ttf */ = {isa = PBXFileReference; name = "urbanistlightitalic.ttf"; path = "../assets/fonts/urbanistlightitalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		DD43F3455AC5497ABFDB83F6 /* urbanistmedium.ttf */ = {isa = PBXFileReference; name = "urbanistmedium.ttf"; path = "../assets/fonts/urbanistmedium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2E3AAE134B514D6F99B33C8F /* urbanistmediumitalic.ttf */ = {isa = PBXFileReference; name = "urbanistmediumitalic.ttf"; path = "../assets/fonts/urbanistmediumitalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		2EDABE4110094CD2B098C5B9 /* urbanistregular.ttf */ = {isa = PBXFileReference; name = "urbanistregular.ttf"; path = "../assets/fonts/urbanistregular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		02C3600878D845AB9667D772 /* urbanistsemiboditalic.ttf */ = {isa = PBXFileReference; name = "urbanistsemiboditalic.ttf"; path = "../assets/fonts/urbanistsemiboditalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		A9E54D6EF41D4383AD4BC7FA /* urbanistsemibold.ttf */ = {isa = PBXFileReference; name = "urbanistsemibold.ttf"; path = "../assets/fonts/urbanistsemibold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		862A79AA193241D5B0F9D92C /* urbanistthin.ttf */ = {isa = PBXFileReference; name = "urbanistthin.ttf"; path = "../assets/fonts/urbanistthin.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		349A03908B624FE4847F742E /* urbanistthinitalic.ttf */ = {isa = PBXFileReference; name = "urbanistthinitalic.ttf"; path = "../assets/fonts/urbanistthinitalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,6 +162,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				6D9D82FE5ADB4302AFE15A89 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -149,6 +188,33 @@
 			);
 			path = Pods;
 			sourceTree = "<group>";
+		};
+		6D9D82FE5ADB4302AFE15A89 /* Resources */ = {
+			isa = "PBXGroup";
+			children = (
+				C93A1E6A650C4F60AF36BD15 /* samayshaktiicons.ttf */,
+				83A6F7A63A694B52B07156E5 /* urbanistblack.ttf */,
+				EAC6895758E04EB3BCBB74DC /* urbanistblackitalic.ttf */,
+				01D44113DC8D4A67A237CF4C /* urbanistbold.ttf */,
+				70E5043228D44141A074D20C /* urbanistbolditalic.ttf */,
+				0AE651065C9E4CA29193D8A3 /* urbanistextrabold.ttf */,
+				34F3371AF1EE47F3B77093AD /* urbanistextrabolditalic.ttf */,
+				54405CBA88DD4237AA7B3083 /* urbanistextralight.ttf */,
+				19D6C3DED2DA4086A77F40CF /* urbanistextralightitalic.ttf */,
+				F279A39901F64240B277345C /* urbanistitalic.ttf */,
+				8D376985B18C4CA1B2E494AB /* urbanistlight.ttf */,
+				E15D21E751114E24A6190F1D /* urbanistlightitalic.ttf */,
+				DD43F3455AC5497ABFDB83F6 /* urbanistmedium.ttf */,
+				2E3AAE134B514D6F99B33C8F /* urbanistmediumitalic.ttf */,
+				2EDABE4110094CD2B098C5B9 /* urbanistregular.ttf */,
+				02C3600878D845AB9667D772 /* urbanistsemiboditalic.ttf */,
+				A9E54D6EF41D4383AD4BC7FA /* urbanistsemibold.ttf */,
+				862A79AA193241D5B0F9D92C /* urbanistthin.ttf */,
+				349A03908B624FE4847F742E /* urbanistthinitalic.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+			path = "";
 		};
 /* End PBXGroup section */
 
@@ -245,6 +311,25 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				AF0EBE4BEF5A401490426F97 /* samayshaktiicons.ttf in Resources */,
+				4A2D44A52BB543CCA313F43A /* urbanistblack.ttf in Resources */,
+				AF9CEF8B8309402BACB93AB9 /* urbanistblackitalic.ttf in Resources */,
+				506C791157BD427DBC3D5CFB /* urbanistbold.ttf in Resources */,
+				09FB0BDB7E8C42D3AF4F5D73 /* urbanistbolditalic.ttf in Resources */,
+				A64C2FED0CDE4BDF8C3BBF45 /* urbanistextrabold.ttf in Resources */,
+				9A588B43C9434BC794983B91 /* urbanistextrabolditalic.ttf in Resources */,
+				E2CAEE8B715C480CA5AEFBD6 /* urbanistextralight.ttf in Resources */,
+				4A74B8982E6945D5BA5F07D7 /* urbanistextralightitalic.ttf in Resources */,
+				CA1CBD2007BD456B9128CEEC /* urbanistitalic.ttf in Resources */,
+				94DDF32D05284962ACEF4CB7 /* urbanistlight.ttf in Resources */,
+				4A743EE938BF427EB6F61CFE /* urbanistlightitalic.ttf in Resources */,
+				84742906D7964CFA9D65828D /* urbanistmedium.ttf in Resources */,
+				B0F28A096F0D45F7A9FB5E03 /* urbanistmediumitalic.ttf in Resources */,
+				B119B22C8BC64DBA9447CE68 /* urbanistregular.ttf in Resources */,
+				3A7FCCDD6A8842478BB9903A /* urbanistsemiboditalic.ttf in Resources */,
+				A7364800CC0143E59D9F3203 /* urbanistsemibold.ttf in Resources */,
+				3532B37E59E5422DAD475EEA /* urbanistthin.ttf in Resources */,
+				E4B453DAD40F47249A55AF94 /* urbanistthinitalic.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
